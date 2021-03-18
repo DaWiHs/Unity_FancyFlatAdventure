@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b4f067d80d8b09849a14da6cdc1f65f1
+timeCreated: 1511986472
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - endSprite1: {fileID: 21300006, guid: 6d200c54d55f5f74fbc884c361b86450, type: 3}
+  - endSprite2: {fileID: 21300000, guid: 6d200c54d55f5f74fbc884c361b86450, type: 3}
+  - endSprite3: {fileID: 21300004, guid: 6d200c54d55f5f74fbc884c361b86450, type: 3}
+  - endSprite4: {fileID: 21300002, guid: 6d200c54d55f5f74fbc884c361b86450, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

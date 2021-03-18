@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 66a04b2199a95ec47a4aaba378cb1acb
+timeCreated: 1512234918
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Texture.Fancy.Flat.Adventure_0
+    21300002: Texture.Fancy.Flat.Adventure_1
+    21300004: Texture.Fancy.Flat.Adventure_2
+    21300006: Texture.Fancy.Flat.Adventure_3
+    21300008: Texture.Fancy.Flat.Adventure_4
+    21300010: Texture.Fancy.Flat.Adventure_5
+    21300012: Texture.Fancy.Flat.Adventure_6
+    21300014: Texture.Fancy.Flat.Adventure_7
+    21300016: Texture.Fancy.Flat.Adventure_8
+    21300018: Texture.Fancy.Flat.Adventure_9
+    21300020: Texture.Fancy.Flat.Adventure_10
+    21300022: Texture.Fancy.Flat.Adventure_11
+    21300024: Texture.Fancy.Flat.Adventure_12
+    21300026: Texture.Fancy.Flat.Adventure_13
+    21300028: Texture.Fancy.Flat.Adventure_14
+    21300030: Texture.Fancy.Flat.Adventure_15
+    21300032: Texture.Fancy.Flat.Adventure_16
+    21300034: Texture.Fancy.Flat.Adventure_17
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1729
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1730
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1730
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1730
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_4
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1730
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1526
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1526
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1526
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1526
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1157
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1157
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1157
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1157
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1157
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_14
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 967
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 967
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_16
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 967
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Texture.Fancy.Flat.Adventure_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 967
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

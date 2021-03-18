@@ -1,0 +1,3304 @@
+fileFormatVersion: 2
+guid: efb76e772a552c0488fc5ff8e17126e8
+timeCreated: 1513257495
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MetalicSpriteSheet_0
+    21300002: MetalicSpriteSheet_1
+    21300004: MetalicSpriteSheet_2
+    21300006: MetalicSpriteSheet_3
+    21300008: MetalicSpriteSheet_4
+    21300010: MetalicSpriteSheet_5
+    21300012: MetalicSpriteSheet_6
+    21300014: MetalicSpriteSheet_7
+    21300016: MetalicSpriteSheet_8
+    21300018: MetalicSpriteSheet_9
+    21300020: MetalicSpriteSheet_10
+    21300022: MetalicSpriteSheet_11
+    21300024: MetalicSpriteSheet_12
+    21300026: MetalicSpriteSheet_13
+    21300028: MetalicSpriteSheet_14
+    21300030: MetalicSpriteSheet_15
+    21300032: MetalicSpriteSheet_16
+    21300034: MetalicSpriteSheet_17
+    21300036: MetalicSpriteSheet_18
+    21300038: MetalicSpriteSheet_19
+    21300040: MetalicSpriteSheet_20
+    21300042: MetalicSpriteSheet_21
+    21300044: MetalicSpriteSheet_22
+    21300046: MetalicSpriteSheet_23
+    21300048: MetalicSpriteSheet_24
+    21300050: MetalicSpriteSheet_25
+    21300052: MetalicSpriteSheet_26
+    21300054: MetalicSpriteSheet_27
+    21300056: MetalicSpriteSheet_28
+    21300058: MetalicSpriteSheet_29
+    21300060: MetalicSpriteSheet_30
+    21300062: MetalicSpriteSheet_31
+    21300064: MetalicSpriteSheet_32
+    21300066: MetalicSpriteSheet_33
+    21300068: MetalicSpriteSheet_34
+    21300070: MetalicSpriteSheet_35
+    21300072: MetalicSpriteSheet_36
+    21300074: MetalicSpriteSheet_37
+    21300076: MetalicSpriteSheet_38
+    21300078: MetalicSpriteSheet_39
+    21300080: MetalicSpriteSheet_40
+    21300082: MetalicSpriteSheet_41
+    21300084: MetalicSpriteSheet_42
+    21300086: MetalicSpriteSheet_43
+    21300088: MetalicSpriteSheet_44
+    21300090: MetalicSpriteSheet_45
+    21300092: MetalicSpriteSheet_46
+    21300094: MetalicSpriteSheet_47
+    21300096: MetalicSpriteSheet_48
+    21300098: MetalicSpriteSheet_49
+    21300100: MetalicSpriteSheet_50
+    21300102: MetalicSpriteSheet_51
+    21300104: MetalicSpriteSheet_52
+    21300106: MetalicSpriteSheet_53
+    21300108: MetalicSpriteSheet_54
+    21300110: MetalicSpriteSheet_55
+    21300112: MetalicSpriteSheet_56
+    21300114: MetalicSpriteSheet_57
+    21300116: MetalicSpriteSheet_58
+    21300118: MetalicSpriteSheet_59
+    21300120: MetalicSpriteSheet_60
+    21300122: MetalicSpriteSheet_61
+    21300124: MetalicSpriteSheet_62
+    21300126: MetalicSpriteSheet_63
+    21300128: MetalicSpriteSheet_64
+    21300130: MetalicSpriteSheet_65
+    21300132: MetalicSpriteSheet_66
+    21300134: MetalicSpriteSheet_67
+    21300136: MetalicSpriteSheet_68
+    21300138: MetalicSpriteSheet_69
+    21300140: MetalicSpriteSheet_70
+    21300142: MetalicSpriteSheet_71
+    21300144: MetalicSpriteSheet_72
+    21300146: MetalicSpriteSheet_73
+    21300148: MetalicSpriteSheet_74
+    21300150: MetalicSpriteSheet_75
+    21300152: MetalicSpriteSheet_76
+    21300154: MetalicSpriteSheet_77
+    21300156: MetalicSpriteSheet_78
+    21300158: MetalicSpriteSheet_79
+    21300160: MetalicSpriteSheet_80
+    21300162: MetalicSpriteSheet_81
+    21300164: MetalicSpriteSheet_82
+    21300166: MetalicSpriteSheet_83
+    21300168: MetalicSpriteSheet_84
+    21300170: MetalicSpriteSheet_85
+    21300172: MetalicSpriteSheet_86
+    21300174: MetalicSpriteSheet_87
+    21300176: MetalicSpriteSheet_88
+    21300178: MetalicSpriteSheet_89
+    21300180: MetalicSpriteSheet_90
+    21300182: MetalicSpriteSheet_91
+    21300184: MetalicSpriteSheet_92
+    21300186: MetalicSpriteSheet_93
+    21300188: MetalicSpriteSheet_94
+    21300190: MetalicSpriteSheet_95
+    21300192: MetalicSpriteSheet_96
+    21300194: MetalicSpriteSheet_97
+    21300196: MetalicSpriteSheet_98
+    21300198: MetalicSpriteSheet_99
+    21300200: MetalicSpriteSheet_100
+    21300202: MetalicSpriteSheet_101
+    21300204: MetalicSpriteSheet_102
+    21300206: MetalicSpriteSheet_103
+    21300208: MetalicSpriteSheet_104
+    21300210: MetalicSpriteSheet_105
+    21300212: MetalicSpriteSheet_106
+    21300214: MetalicSpriteSheet_107
+    21300216: MetalicSpriteSheet_108
+    21300218: MetalicSpriteSheet_109
+    21300220: MetalicSpriteSheet_110
+    21300222: MetalicSpriteSheet_111
+    21300224: MetalicSpriteSheet_112
+    21300226: MetalicSpriteSheet_113
+    21300228: MetalicSpriteSheet_114
+    21300230: MetalicSpriteSheet_115
+    21300232: MetalicSpriteSheet_116
+    21300234: MetalicSpriteSheet_117
+    21300236: MetalicSpriteSheet_118
+    21300238: MetalicSpriteSheet_119
+    21300240: MetalicSpriteSheet_120
+    21300242: MetalicSpriteSheet_121
+    21300244: MetalicSpriteSheet_122
+    21300246: MetalicSpriteSheet_123
+    21300248: MetalicSpriteSheet_124
+    21300250: MetalicSpriteSheet_125
+    21300252: MetalicSpriteSheet_126
+    21300254: MetalicSpriteSheet_127
+    21300256: MetalicSpriteSheet_128
+    21300258: MetalicSpriteSheet_129
+    21300260: MetalicSpriteSheet_130
+    21300262: MetalicSpriteSheet_131
+    21300264: MetalicSpriteSheet_132
+    21300266: MetalicSpriteSheet_133
+    21300268: MetalicSpriteSheet_134
+    21300270: MetalicSpriteSheet_135
+    21300272: MetalicSpriteSheet_136
+    21300274: MetalicSpriteSheet_137
+    21300276: MetalicSpriteSheet_138
+    21300278: MetalicSpriteSheet_139
+    21300280: MetalicSpriteSheet_140
+    21300282: MetalicSpriteSheet_141
+    21300284: MetalicSpriteSheet_142
+    21300286: MetalicSpriteSheet_143
+    21300288: MetalicSpriteSheet_144
+    21300290: MetalicSpriteSheet_145
+    21300292: MetalicSpriteSheet_146
+    21300294: MetalicSpriteSheet_147
+    21300296: MetalicSpriteSheet_148
+    21300298: MetalicSpriteSheet_149
+    21300300: MetalicSpriteSheet_150
+    21300302: MetalicSpriteSheet_151
+    21300304: MetalicSpriteSheet_152
+    21300306: MetalicSpriteSheet_153
+    21300308: MetalicSpriteSheet_154
+    21300310: MetalicSpriteSheet_155
+    21300312: MetalicSpriteSheet_156
+    21300314: MetalicSpriteSheet_157
+    21300316: MetalicSpriteSheet_158
+    21300318: MetalicSpriteSheet_159
+    21300320: MetalicSpriteSheet_160
+    21300322: MetalicSpriteSheet_161
+    21300324: MetalicSpriteSheet_162
+    21300326: MetalicSpriteSheet_163
+    21300328: MetalicSpriteSheet_164
+    21300330: MetalicSpriteSheet_165
+    21300332: MetalicSpriteSheet_166
+    21300334: MetalicSpriteSheet_167
+    21300336: MetalicSpriteSheet_168
+    21300338: MetalicSpriteSheet_169
+    21300340: MetalicSpriteSheet_170
+    21300342: MetalicSpriteSheet_171
+    21300344: MetalicSpriteSheet_172
+    21300346: MetalicSpriteSheet_173
+    21300348: MetalicSpriteSheet_174
+    21300350: MetalicSpriteSheet_175
+    21300352: MetalicSpriteSheet_176
+    21300354: MetalicSpriteSheet_177
+    21300356: MetalicSpriteSheet_178
+    21300358: MetalicSpriteSheet_179
+    21300360: MetalicSpriteSheet_180
+    21300362: MetalicSpriteSheet_181
+    21300364: MetalicSpriteSheet_182
+    21300366: MetalicSpriteSheet_183
+    21300368: MetalicSpriteSheet_184
+    21300370: MetalicSpriteSheet_185
+    21300372: MetalicSpriteSheet_186
+    21300374: MetalicSpriteSheet_187
+    21300376: MetalicSpriteSheet_188
+    21300378: MetalicSpriteSheet_189
+    21300380: MetalicSpriteSheet_190
+    21300382: MetalicSpriteSheet_191
+    21300384: MetalicSpriteSheet_192
+    21300386: MetalicSpriteSheet_193
+    21300388: MetalicSpriteSheet_194
+    21300390: MetalicSpriteSheet_195
+    21300392: MetalicSpriteSheet_196
+    21300394: MetalicSpriteSheet_197
+    21300396: MetalicSpriteSheet_198
+    21300398: MetalicSpriteSheet_199
+    21300400: MetalicSpriteSheet_200
+    21300402: MetalicSpriteSheet_201
+    21300404: MetalicSpriteSheet_202
+    21300406: MetalicSpriteSheet_203
+    21300408: MetalicSpriteSheet_204
+    21300410: MetalicSpriteSheet_205
+    21300412: MetalicSpriteSheet_206
+    21300414: MetalicSpriteSheet_207
+    21300416: MetalicSpriteSheet_208
+    21300418: MetalicSpriteSheet_209
+    21300420: MetalicSpriteSheet_210
+    21300422: MetalicSpriteSheet_211
+    21300424: MetalicSpriteSheet_212
+    21300426: MetalicSpriteSheet_213
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 958
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 892
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 826
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 760
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 694
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 628
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 562
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 430
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 364
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_202
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_203
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_204
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_205
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_206
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_207
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_208
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_209
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_210
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_211
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_212
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MetalicSpriteSheet_213
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 34
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

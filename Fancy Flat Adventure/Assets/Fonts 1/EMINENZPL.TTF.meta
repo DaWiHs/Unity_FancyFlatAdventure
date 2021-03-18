@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ad37ef8bb1e252a4eb57df46738f7389
+timeCreated: 1508775418
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EminenzPL
+  fontNames:
+  - EminenzPL
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7 @@
+Player;
+	Mass: 1.75
+	Gravity: 2.25
+
+gameManager;
+	Jump Speed: 9
+	run Speed: 8
