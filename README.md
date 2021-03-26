@@ -6,3 +6,5 @@
  Side-scroll platformer with 3 levels of jump (Low/Mid/High), some handbuilt levels, and endless mode. Supports 2 players and highscores.
  
  It was my first big project, code there is a total mess (but works, won 2nd place), so I don't intend to touch it but the idea and world builds can be reused surely.
+
+FancyFlatAdventure.rar contains archived .exe, if you want to try it.
